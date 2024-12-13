@@ -21,7 +21,7 @@ L'application est développée avec React.js pour le front-end et MongoDB pour l
 
 Clonez ce dépôt sur votre machine locale :
 
-git clone https://github.com/votre-utilisateur/gestion-stock-labo.git  
+git clone https://github.com/ababacar03/projet-fablab.git 
 cd gestion-stock-labo  
 
 3. Démarrage du Backend
